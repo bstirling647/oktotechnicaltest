@@ -97,7 +97,7 @@ PrefabInstance:
       objectReference: {fileID: 3306451490063965843, guid: 0000000000000000d000000000000000, type: 0}
     - target: {fileID: 1221505269654367275, guid: 267334973770b614fafe2f54212c028b, type: 3}
       propertyPath: m_Name
-      value: Page0
+      value: Page0 Variant
       objectReference: {fileID: 0}
     - target: {fileID: 1342996589106312387, guid: 267334973770b614fafe2f54212c028b, type: 3}
       propertyPath: m_Range
@@ -195,6 +195,14 @@ PrefabInstance:
       propertyPath: m_SpotAngle
       value: 93.8
       objectReference: {fileID: 0}
+    - target: {fileID: 4244607710085707322, guid: 267334973770b614fafe2f54212c028b, type: 3}
+      propertyPath: _bgSprite
+      value: 
+      objectReference: {fileID: 1064472380}
+    - target: {fileID: 4244607710085707322, guid: 267334973770b614fafe2f54212c028b, type: 3}
+      propertyPath: _characterAnimator
+      value: 
+      objectReference: {fileID: 390234099}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 267334973770b614fafe2f54212c028b, type: 3}
 --- !u!4 &5397225116998984624 stripped
